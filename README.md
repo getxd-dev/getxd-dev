@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm getxd-dev</h1>
 <h3 align="center">A person who is still bad at coding</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Discord Music Bot**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [github, gitlab]
 
