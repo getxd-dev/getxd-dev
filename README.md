@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm getxd-dev</h1>
-<h3 align="center">A person who is still bad at coding</h3>
+<h1 align="center">Hi 👋, I'm getxd</h1>
+<h3 align="center">still making spaghetti code in 2021</h3>
 
 - 🔭 I’m currently working on **Discord Music Bot**
 
