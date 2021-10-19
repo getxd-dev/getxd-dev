@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm getxd</h1>
 <h3 align="center">professional copy paster in 2021</h3>
 
-- 🔭 I’m currently working on **Discord Music Bot**
+- 🔭 I’m currently working on **Groothm (Music Bot)**
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [github, gitlab]
+- 👨‍💻 All of my projects are available at github and idk
 
 - 📫 How to reach me **Discord: getxd#6152**
 
