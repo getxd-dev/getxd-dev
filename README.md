@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm getxd</h1>
-<h3 align="center">professional copy paster in 2021</h3>
+<h3 align="center">noob javascript dev</h3>
 
 - 🔭 I’m currently working on **Groothm (Music Bot)**
 
