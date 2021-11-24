@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm getxd</h1>
 <h3 align="center">noob javascript dev</h3>
+<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sleep+Is+Healthy!&center=true&width=200&height=30">
+</p>
 
 - 🔭 I’m currently working on **Groothm (Music Bot)**
 
