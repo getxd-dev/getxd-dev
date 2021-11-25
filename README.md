@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Discord: getxd#6152**
 
-<p align="center">
+<p align="left">
   <img src="https://discord.c99.nl/widget/theme-1/335654844272738306.png">
 </p>
 
