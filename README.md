@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Groothm (Music Bot)**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **HTML and CSS**
 
 - 👨‍💻 All of my projects are available at github and idk
 
