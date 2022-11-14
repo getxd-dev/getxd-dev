@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm getxd</h1>
-<h3 align="center">noob javascript dev</h3>
+<h3 align="center">js guy</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Sleep+Is+Healthy!&center=true&width=200&height=30">
